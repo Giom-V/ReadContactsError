@@ -8,8 +8,6 @@ import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.provider.ContactsContract;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.widget.SearchView;
 import android.widget.TextView;
 
